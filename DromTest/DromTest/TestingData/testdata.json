@@ -1,0 +1,9 @@
+﻿{
+  "brand": "Honda",
+  "model": "Civic",
+  "transmission": "автомат",
+  "drive": "передний",
+  "bodyType": "седан",
+  "wheel": "левый",
+  "year":  "2023"
+}
